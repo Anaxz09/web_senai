@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+}
+
+.text-green {
+    color: green;
+    background-color: gray;
+}
+
+.text-red {
+    color: red;
+    text-align: center;
+    background-color: gray;
+}
+
+.text-blue {
+    color: blue;
+    text-align: right;
+    background-color: gray;
+}
+
+.text-purple {
+    color: purple;
+    text-align: center;
+    background-color: gray;
+}
+
+.text-yellow {
+    color: yellow;
+    background-color: gray;
+}
+
+.text-pink {
+    color: hotpink;
+    text-align: center;
+    background-color: gray;
+}
+
+ul {
+    background-color: white;
+}
+
+
+body {
+    background-color: khaki;
+}

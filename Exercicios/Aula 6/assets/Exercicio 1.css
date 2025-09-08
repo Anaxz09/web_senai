@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+p {
+    color: white;
+    background: red;
+    display: inline;]
+
+}
+
+#text-maior {
+    font-size: 32px;
+    font-family: "Arial";
+}
+
+
+body {
+    background-color: black;
+}
