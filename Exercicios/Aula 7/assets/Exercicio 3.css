@@ -1,0 +1,48 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+.verde {
+    background-color: green;
+    height: 250px;
+    border-radius: 10px;
+    width: 250px;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.azul {
+    background-color: blue;
+    height: 250px;
+    border-radius: 100%;
+    width: 250px;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+
+.amarelo {
+    background-color: yellow;
+    height: 250px;
+    border-radius: 10px;
+    width: 250px;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+
+.verde2 {
+    background-color: green;
+    height: 250px;
+    border-radius: 40px;
+    width: 57%;
+    display: inline-block;
+}
+
+div:hover {
+    background-color: white;
+    border: black solid 2px;
+}

@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+}
+
+.verde {
+    background-color: green;
+    height: 100px;
+    color: green;
+}
+
+.azul {
+    background-color: blue;
+    height: 200px;
+    width: 50%;
+    display: inline-block;
+    color: blue;
+}
+
+.amarelo {
+    float: right;
+    background-color: yellow;
+    height: 200px;
+    width: 49.7%;
+    display: inline-block;
+    color: yellow;
+}
+
+
