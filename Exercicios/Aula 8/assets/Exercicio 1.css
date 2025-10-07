@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.vermelho {
+    height: 80px;
+    background-color: indianred;
+    margin: 30px;
+}
+
+.azul {
+    height: 298px;
+    background-color: cadetblue;
+    margin: 30px;
+}
+
+.linha {
+    display: flex;
+    background: green;
+    border: 30px solid red;
+    margin: 30px;
+}
+
+.linha-2 {
+    display: flex;
+    background: cadetblue;
+    border: 20px solid cadetblue;
+    margin: 20px;
+    height: 260px;
+}
+
+.azulClaro {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.azulClaro div {
+    width: 600px;
+    height: 230px;
+    background-color: lightsteelblue;
+    margin: 30px;
+}
