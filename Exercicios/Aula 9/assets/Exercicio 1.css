@@ -3,6 +3,7 @@ table {
     border: 1px solid black;
     text-align: center;
     width: 30%;
+    margin: auto;
 }
 
 thead {
@@ -27,5 +28,6 @@ th {
 p {
     color: darkslateblue;
     font-family: bold;
+    text-align: center;
 }
 
