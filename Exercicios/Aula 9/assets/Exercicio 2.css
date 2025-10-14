@@ -1,0 +1,72 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 30%;
+    text-align: center;
+    font-family: Arial;
+
+}
+
+.jvsggp {
+    background-color: midnightblue;
+    color: #00BFFF;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.let {
+    background-color: midnightblue;
+    color: #00BFFF;
+    border: 1px solid black;
+}
+
+.bra {
+    background-color: midnightblue;
+    color: #00BFFF;
+    text-align: left;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.pont {
+    background-color: cyan;
+    color: midnightblue;
+    border: 1px solid black;
+}
+
+.time {
+    background-color: lightgray;
+    color: midnightblue;
+    text-align: left;
+    border: 1px solid black;
+}
+
+.num {
+    background-color: midnightblue;
+    color: lawngreen;
+    border: 1px solid black;
+}
+
+.num1 {
+    background-color: midnightblue;
+    color: lightskyblue;
+    border: 1px solid black;
+}
+
+.num2 {
+    background-color: midnightblue;
+    color: yellow;
+    border: 1px solid black;
+}
+
+.num3 {
+    background-color: midnightblue;
+    color: white;
+    border: 1px solid black;
+}
+
+.num4 {
+    background-color: midnightblue;
+    color: red;
+    border: 1px solid black;
+}

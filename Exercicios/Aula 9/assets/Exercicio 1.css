@@ -1,0 +1,31 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    text-align: center;
+    width: 30%;
+}
+
+thead {
+    background-color: cornflowerblue;
+    font-family: Bahnschrift;
+}
+
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 30%;
+    padding: 5px;
+}
+
+th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 30%;
+    padding: 5px;
+}
+
+p {
+    color: darkslateblue;
+    font-family: bold;
+}
+
